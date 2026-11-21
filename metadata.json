@@ -1,0 +1,6 @@
+{
+  "name": "CASA STYLE",
+  "description": "Boutique de vêtements et accessoires de mode premium à Casablanca, Maroc — Votre style, votre identité.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
